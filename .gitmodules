@@ -5,4 +5,4 @@
 [submodule "frutilight"]
 	path = frutilight
 	url = git@git.vauxoo.com:vauxoo/frutilight.git
-	branch = 12.0
+	branch = 12.0-task32179-luisg
