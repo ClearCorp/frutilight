@@ -6,3 +6,7 @@
 	path = frutilight
 	url = git@git.vauxoo.com:vauxoo/frutilight.git
 	branch = 12.0
+[submodule "web"]
+	path = web
+	url = git@github.com:Vauxoo/web.git
+	branch = 12.0
