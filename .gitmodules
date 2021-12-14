@@ -17,3 +17,7 @@
 [submodule "costarica"]
 	path = costarica
 	url = git@git.vauxoo.com:vauxoo/costarica.git
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:Vauxoo/purchase-workflow.git
+	branch = 12.0
