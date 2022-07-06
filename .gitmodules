@@ -21,3 +21,7 @@
 	path = purchase-workflow
 	url = git@github.com:Vauxoo/purchase-workflow.git
 	branch = 12.0
+[submodule "stock-psycho-account"]
+	path = stock-psycho-account
+	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
+	branch = 12.0
