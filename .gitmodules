@@ -25,3 +25,7 @@
 	path = stock-psycho-account
 	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
 	branch = 12.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 15.0
