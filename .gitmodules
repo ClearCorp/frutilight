@@ -1,31 +1,32 @@
-[submodule "server-tools"]
-	path = server-tools
-	url = git@github.com:Vauxoo/server-tools.git
-	branch = 12.0
-[submodule "frutilight"]
-	path = frutilight
-	url = git@git.vauxoo.com:vauxoo/frutilight.git
-	branch = 12.0
-[submodule "web"]
-	path = web
-	url = git@github.com:Vauxoo/web.git
-	branch = 12.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:Vauxoo/costarica.git
+	branch = 16.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = git@github.com:Vauxoo/stock-logistics-workflow.git
-	branch = 12.0
-[submodule "costarica"]
-	path = costarica
-	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 16.0
 [submodule "purchase-workflow"]
 	path = purchase-workflow
 	url = git@github.com:Vauxoo/purchase-workflow.git
-	branch = 12.0
-[submodule "stock-psycho-account"]
-	path = stock-psycho-account
-	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
-	branch = 12.0
+	branch = 16.0
+[submodule "frutilight"]
+	path = frutilight
+	url = git@git.vauxoo.com:vauxoo/frutilight.git
+	branch = 16.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 16.0
 [submodule "addons-vauxoo"]
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
-	branch = 15.0
+	branch = 16.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 16.0
+[submodule "stock-tracking-fields"]
+	path = stock-tracking-fields
+	url = git@git.vauxoo.com:vauxoo/stock-tracking-fields.git
+	branch = 16.0
