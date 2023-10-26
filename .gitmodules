@@ -13,7 +13,7 @@
 [submodule "frutilight"]
 	path = frutilight
 	url = git@git.vauxoo.com:vauxoo/frutilight.git
-	branch = 16.0
+	branch = 15.0-carralc-mig_account_move
 [submodule "server-tools"]
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
