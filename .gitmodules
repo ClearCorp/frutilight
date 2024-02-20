@@ -30,3 +30,7 @@
 	path = stock-tracking-fields
 	url = git@git.vauxoo.com:vauxoo/stock-tracking-fields.git
 	branch = 16.0
+[submodule "queue"]
+	path = queue
+	url = git@github.com:PCatinean/queue.git
+	branch = 16.0-odoosh-queue-job-pc
